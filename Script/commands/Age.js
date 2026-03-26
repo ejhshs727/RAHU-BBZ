@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "age",
     version: "2.1",
-    author: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+    author: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋a𝐌🔰",
     hasPermission: 0,
     commandCategory: "utility",
     cooldowns: 5,
